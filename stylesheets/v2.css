@@ -1,0 +1,12 @@
+body{
+	background-color: grey;
+	font-family: Helvetica;
+	font-size: 28px;
+	margin-left: 5%;
+}
+.bold{
+	font-weight: bold;
+}
+p{
+	font-size: 14px; font-family: arial;
+}
